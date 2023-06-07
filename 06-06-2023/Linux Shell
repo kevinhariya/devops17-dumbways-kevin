@@ -1,0 +1,2 @@
+1. df -h =untuk melihat disk , nano namafile = untuk membuat file , mkdir namafolder = membuat folder 
+2. Perbedaan antara bash dan Shell adalah Bash adalah superset dari sh, yang berarti bash mendukung fungsi sh sambil juga menambahkan ekstensi tambahan.
