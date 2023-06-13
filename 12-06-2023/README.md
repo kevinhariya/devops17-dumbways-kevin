@@ -4,7 +4,7 @@
    ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/ca1f67d5-c200-4627-b1b0-6003e3b42708)
    ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/d23f09f4-867d-4ba5-88c1-13e2e071a63c)
 3. ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/a11b6a6d-99da-4890-b21d-6b4152f50af3)
-3. ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/d744be1f-4556-43a1-bef6-9a0e32b8491b)
+   ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/d744be1f-4556-43a1-bef6-9a0e32b8491b)
    ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/5a5dcbb2-b763-4e22-9d86-c205688fb0c8)
    ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/2e2c420b-807e-4094-bfe0-a7116f32128f)
    ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/b793eeec-39cd-4975-84b6-73b6d0708489)
