@@ -1,4 +1,5 @@
 1. text manipulation secara umum bagaimana kita memanipulasi teks tanpa menggunakan teks editor. terdapat beberapa command yang bisa kita gunakan sebagai text manipulation
+
  cat
  1.cat namafile=untuk melihat file
  2.cat > namafile = untuk mengubah file tanpa nano
