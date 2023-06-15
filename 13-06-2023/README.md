@@ -118,6 +118,8 @@ tree = untuk menampilkan cabang command
 
 sortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
 
+![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/3a6ffff7-279b-44cd-8ff0-f8d095729fe7)
+
 
 
 
