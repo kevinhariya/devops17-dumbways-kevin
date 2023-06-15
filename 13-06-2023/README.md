@@ -93,14 +93,31 @@ Command = perintah apa yang sedang di jalankan.
  
  help = untuk mengetahui lebih lanjut mengenai tool di htop atau informasi tentang htop
  
+ ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/2aab4d42-8c4d-4773-a4b4-48628d1b1adc)
+
+ 
  setup = untuk mengatur htop baik pada tampilan maupun informasi yang ingin ditampilkan pada kolom dan baris monitoring
+ 
+ ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/dd5263f6-d7a5-4fc2-aed2-9acd5f030587)
+
  
  search = untuk mencari proses, user, command dengan nama tertentu
  
+ ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/21308559-7ef5-4232-b677-b6dcfa57172f)
+
+ 
  filter = untuk memfilter command, proses, user dengan nama tertentu
+ 
+ ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/5578406f-b74c-4a26-a8de-0cd296861bce)
+
 
 tree = untuk menampilkan cabang command
 
+![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/cf93b919-4082-419f-9ab3-c16e6377b7e3)
+
+
 sortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
+
+
 
 
