@@ -101,6 +101,6 @@ Command = perintah apa yang sedang di jalankan.
 
 tree = untuk menampilkan cabang command
 
-shortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
+sortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
 
 
