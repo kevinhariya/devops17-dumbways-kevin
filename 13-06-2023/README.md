@@ -65,3 +65,26 @@ echo
 
 ![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/1d5667e5-2fc6-49f9-b34e-6ed8d0a602b1)
 
+htop
+
+![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/c5b5adec-f2b6-4c76-ae5c-91d97df4b715)
+
+CPU = jumlah core yang kita miliki.
+
+Mem = total penggunaan memory.
+
+Swp = Memory cadangan.
+
+Tasks = aplikasi yang sedang berjalan di server.
+
+Load average = rata-rata aplikasi yang berjalan.
+
+Uptime = berapa lama server kita hidup.
+
+PID = nomor proses id setiap proses yang berjalan di linux.
+
+VIRT = memory yang terpakai.
+
+Command = perintah apa yang sedang di jalankan.
+
+
