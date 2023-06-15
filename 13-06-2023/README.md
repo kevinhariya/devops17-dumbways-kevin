@@ -87,4 +87,20 @@ VIRT = memory yang terpakai.
 
 Command = perintah apa yang sedang di jalankan.
 
+![image](https://github.com/kevinhariya/devops17-dumbways-kevin/assets/135611481/b0efd1f2-a2d0-4c12-af98-9efef9b93f42)
+
+ command f1 sampai f10 harus digunakan menggunakan fn+f1 dst
+ 
+ help = untuk mengetahui lebih lanjut mengenai tool di htop atau informasi tentang htop
+ 
+ setup = untuk mengatur htop baik pada tampilan maupun informasi yang ingin ditampilkan pada kolom dan baris monitoring
+ 
+ search = untuk mencari proses, user, command dengan nama tertentu
+ 
+ filter = untuk memfilter command, proses, user dengan nama tertentu
+
+tree = untuk menampilkan cabang command
+
+shortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
+
 
